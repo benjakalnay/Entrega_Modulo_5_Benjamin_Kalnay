@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "titulo": "aprendiendo python",
+        "contenido": "foto, comentarios",
+        "autor": {
+            "nombre": "Benjamin Kalnay",
+            "bio": "licenciado en marketing y estudiante de IA"
+        },
+        "tags": [
+            "python",
+            "coderhouse"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "que es django",
+        "contenido": "fotos, me gusta",
+        "autor": {
+            "nombre": "Benjamin Kalnay",
+            "bio": "licenciado en marketing y estudiante de IA"
+        },
+        "tags": [
+            "django",
+            "blog"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "organizando datos con diccionarios",
+        "contenido": "comentarios",
+        "autor": {
+            "nombre": "Benjamin Kalnay",
+            "bio": "licenciado en marketing y estudiante de IA"
+        },
+        "tags": [
+            "python",
+            "diccionarios"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "",
+        "contenido": "",
+        "autor": {
+            "nombre": "Benjamin Kalnay",
+            "bio": "licenciado en marketing y estudiante de IA"
+        },
+        "tags": [
+            "coderhouse",
+            "blog"
+        ],
+        "estado": "publicado"
+    }
+]
